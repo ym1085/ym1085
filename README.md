@@ -5,22 +5,24 @@
 ### Java BackEnd Developer
 
 - 🏦 Currently, I work in Funin
-- 🏢 Previously, I worked for Game Dex
+- 🏢 Previously, I worked for GameDex
 
 ### Interest
 
-- ELK Stack(Elasticsearch, Logstash, Kibana), Cloud(AWS, MSA)
+- ELK Stack(Elasticsearch, Logstash, Kibana), Cloud(AWS), MSA
 - Spring Boot(JPA, Security), TDD
 - Agile, Writing
 
-![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&theme=blue-green)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
-<div align=center>
+<div align=left>
+
+![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
    
+<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ym1085/)](https://www.linkedin.com/in/ym1085/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nobody_93__/?hl=ko)](https://www.instagram.com/nobody_93__/?hl=ko) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngmin1085@gmail.com)](mailto:youngmin1085@gmail.com)
