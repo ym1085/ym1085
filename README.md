@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/MySQL-339AF0?style=flat&logo=MySQL&logoColor=white"/>
     </a><br>
     <a href="javascript:void(0)">
-        <img src="https://img.shields.io/badge/MSSQL-339AF0?style=flat&logo=MSSQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=Elasticsearch&logoColor=#20c997"/>
         <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitLab-white?style=flat&logo=GitLab&logoColor=orange"/>
         <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
