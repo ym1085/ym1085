@@ -1,6 +1,6 @@
 ## 😀 Hello! I'm YoungMinKim
 
-- If you are interested in [me](https://www.notion.so/Kim-YoungMin-Tech-Profile-e685e286aa6a4f559c5564351725f271)
+- If you are interested in me, click here 👉[Tech-Profile](https://chipped-moat-7da.notion.site/37a45a8e802d4fc98cae3d1d67b573e2)
 
 ### Java BackEnd Developer
 
