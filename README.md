@@ -9,8 +9,8 @@
 
 ### Interest
 
-- ELK Stack(Elasticsearch, Logstash, Kibana), Cloud(AWS), MSA
-- Spring Boot(JPA, Security), TDD
+- Elastic Stack, Cloud, MSA
+- Spring Boot, TDD
 - Agile, Writing
 
 ### Tech Spec
