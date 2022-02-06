@@ -9,7 +9,7 @@
 
 ### Interest
 
-- Elastic Stack, Cloud, MSA
+- Elastic Stack, Cloud
 - Spring Boot, TDD
 - Agile, Writing
 
