@@ -4,8 +4,7 @@
 
 ### Java BackEnd Developer
 
-- 🏦 Currently, I work in Funin (2021.12 ~ now)
-- 🏢 Previously, I worked for GameDex (2020.04 ~ 2021.06)
+- 🏦 Currently, I work in Funin
 
 ### Interest
 
