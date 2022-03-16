@@ -4,7 +4,7 @@
 
 ### Java BackEnd Developer
 
-- 🏦 Currently, I work in Funin
+- 🏦 Currently, I work in funin
 
 ### Interest
 
