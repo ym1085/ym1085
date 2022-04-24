@@ -18,7 +18,6 @@
     <a href="javascript:void(0)">    
         <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=Elasticsearch&logoColor=#20c997"/>
         <img src="https://img.shields.io/badge/MySQL-339AF0?style=flat&logo=MySQL&logoColor=white"/>
     </a><br>
     <a href="javascript:void(0)">
