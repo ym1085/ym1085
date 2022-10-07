@@ -8,8 +8,8 @@
 
 ### Interest
 
-- Elastic Stack, Cloud
-- Spring Boot, TDD
+- Spring Boot JPA, TDD
+- AWS, Docker, K8s
 - Agile, Writing
 
 ### Tech Spec
