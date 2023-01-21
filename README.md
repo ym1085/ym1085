@@ -1,6 +1,6 @@
 ## Hello, I'm YoungMinKim
 
-- Here is my [blog](https://ym1085.github.io) and [resume](https://chipped-moat-7da.notion.site/b444d79f34be4d4db63b79e70c1d02c1)
+- Here is my [resume](https://chipped-moat-7da.notion.site/b444d79f34be4d4db63b79e70c1d02c1) and [blog](https://ym1085.github.io)
 
 ### Java BackEnd Developer
 
@@ -8,25 +8,23 @@
 
 ### Interest
 
-- Spring Boot JPA, TDD
-- AWS, Docker, K8s
+- Spring Boot JPA, ELK Stack
+- AWS, Docker, Kubernetes
 - Agile, Writing
 
 ### Tech Spec
 
-<p>
-    <a href="javascript:void(0)">    
-        <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-339AF0?style=flat&logo=MySQL&logoColor=white"/>
-    </a><br>
-    <a href="javascript:void(0)">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=gray"/>
-        <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=white"/>
-    </a>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 #
 <div align=left>
