@@ -1,6 +1,6 @@
 ## Hello, I'm YoungMinKim
 
-- Here is my [resume](https://chipped-moat-7da.notion.site/b444d79f34be4d4db63b79e70c1d02c1) and [blog](https://chipped-moat-7da.notion.site/b440b48fc5ed41c6baef284f6b4254c8)
+- Here is my [resume](https://chipped-moat-7da.notion.site/b444d79f34be4d4db63b79e70c1d02c1) and [blog](https://bit.ly/ymim1085)
 
 ### Java BackEnd Developer
 
