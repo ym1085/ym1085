@@ -1,6 +1,6 @@
 ## Hello, I'm YoungMinKim
 
-- Here is my [resume](https://ymkim-portfolio.oopy.io) and [blog](https://dev-ymkim.oopy.io)
+- Here is my [resume](https://ymkim-portfolio.oopy.io) and [blog](https://sw-ym.tistory.com)
 
 ### Java BackEnd Developer
 
