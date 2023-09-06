@@ -8,7 +8,7 @@
 
 ### Interest
 
-- Spring Boot JPA, ELK Stack
+- Spring Data JPA, ELK Stack
 - AWS, Docker, Kubernetes
 - Agile, Writing
 
