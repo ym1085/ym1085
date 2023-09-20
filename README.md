@@ -1,10 +1,10 @@
 # Hello, I'm YoungMinKim
 
-- 🔗 Dive into my [**resume**](https://ymkim-portfolio.oopy.io) and explore my thoughts on my [**blog**](https://sw-ym.tistory.com).
+- 🔗 Dive into my [**resume**](https://ymkim-portfolio.oopy.io) and explore my thoughts on my [**blog**](https://sw-ym.tistory.com)
 
 ## 🛠️ Current Role
 
-- 🏦 Currently serving as a **Java Backend Engineer** at funin.
+- 🏦 Currently serving as a **Java Backend Engineer** at funin
 
 ## 🌱 Current Interests
 
