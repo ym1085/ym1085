@@ -6,7 +6,7 @@
 
 - 🏦 Currently serving as a **Java Backend Engineer** and **Cloud Engineer** at funin
 
-## 🌱 Current Interests
+## 🌱 Current Interests and Studying
 
 - 🌐 **AWS Container Service (ECS)**
 - 🔍 **Observability**
