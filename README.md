@@ -8,8 +8,8 @@
 
 ## 🌱 Current Interests and Studying
 
-- 🌐 **AWS Container Service (ECS)**
-- 🔍 **Observability**
+- 🌐 **AWS Container Service: ECS**
+- 🔍 **Observability**: Grafana, Prometheus
 - 🐳 Containerization: **Docker, Kubernetes**
 - 🌿 Backend Framework: **Spring JPA**
 
