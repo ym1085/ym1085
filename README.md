@@ -10,7 +10,7 @@
 
 - 🌐 **AWS Container Service: ECS**
 - 🔍 **Observability**: Grafana, Prometheus, Cloudwatch
-- 🐳 Containerization: **Docker, Kubernetes**
+- 🐳 Containerization: **Docker**
 - 🌿 Backend Framework: **Spring JPA**
 
 ## 🚀 Tech Stack
