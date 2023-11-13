@@ -50,8 +50,10 @@
 
 <div align=left>
 
+<!-- ![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=white) -->
 ![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=white&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
