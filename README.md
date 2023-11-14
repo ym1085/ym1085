@@ -11,11 +11,11 @@
 
 - 🏦 Currently serving as a **Java Backend Engineer** and **Cloud Engineer** at funin
 
-## 🌱 Current Interests and Studying
+## 🌱 Current Interests Topic
 
 - 🌐 **AWS Container Service: ECS**
 - 🔍 **Observability**: Grafana, Prometheus, Cloudwatch
-- 🐳 Containerization: **Docker**
+- 🐳 Containerization: **Docker**, **Kubernetes**
 - 🌿 Backend Framework: **Spring JPA**
 
 ## 👆 Once I've used
