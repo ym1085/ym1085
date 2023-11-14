@@ -9,7 +9,7 @@
 
 ## 🛠️ Current Role
 
-- 🏦 Currently serving as a **Java Backend Engineer** and **Cloud Engineer** at funin
+- 🏦 Currently serving as a **Java Backend developer** or **Cloud Engineer** at funin
 
 ## 🔨 Current Use Tools
 
