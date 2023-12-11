@@ -1,9 +1,6 @@
-# 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Youngminkim's+GitHub!👋)](https://git.io/typing-svg)
- 
 <div align="left">
+
+# Hi there, I'm YoungMin Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 - 🔗 Dive into my [**resume**](https://ymkim-portfolio.oopy.io) and explore my thoughts on my [**blog**](https://sw-ym.tistory.com)
 
