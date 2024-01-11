@@ -10,10 +10,9 @@
 
 ## 🌱 Current Interests Tools
 
-- 🌐 **AWS Container Service: ECS**
+- 🐳 **Container Service**: ECS, EKS, Docker, Kubernetes
 - 🔍 **Observability**: Grafana, Prometheus, Cloudwatch
-- 🐳 Containerization: **Docker**, **Kubernetes**
-- 🌿 Backend Framework: **JPA**
+- 🌿 Backend Framework: Spring Boot and JPA
 
 ## 👆 Once I've used
 
