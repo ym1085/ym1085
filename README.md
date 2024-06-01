@@ -10,9 +10,10 @@
 
 ## 🌱 Current Interests Tools
 
-- 🐳 **Container Service**: Docker(ECS), Kubernetes
-- 🔍 **Observability**: Grafana, Prometheus, Cloudwatch
-- 🌿 Backend Framework: Spring Boot and JPA
+- 🌿 **Backend**: Java, Spring Boot, JPA
+- ☁️ **Cloud/Infra**: AWS
+- 🐳 **Container Service**: Docker, Kubernetes
+- 🔍 **Observability**: Grafana, Prometheus
 
 <br>
 
