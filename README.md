@@ -6,7 +6,7 @@
 
 ## 🛠️ Current Role
 
-- 🏦 Currently serving as a **Java Backend developer** and **Server Engineer** at funin
+- 🏦 Currently serving as a **Cloud Engineer** at funin
 
 ## 🌱 Current Interests Tools
 
