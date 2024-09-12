@@ -6,14 +6,14 @@
 
 ## 🛠️ Current Role
 
-- 🏦 Currently serving as a **Cloud Engineer** at funin
+- 🏦 Currently serving as a **Cloud Engineer**
 
 ## 🌱 Current Interests Tools
 
-- 🌿 **Backend**: Java, Spring Boot, JPA
 - ☁️ **Cloud/Infra**: AWS
 - 🐳 **Container Service**: Docker, Kubernetes
 - 🔍 **Observability**: Grafana, Prometheus
+- 🌿 **Backend**: Java, Spring Boot, JPA
 
 <br>
 
