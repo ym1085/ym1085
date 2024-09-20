@@ -6,7 +6,7 @@
 
 ## 🛠️ Current Role
 
-- 🏦 Currently serving as a **Cloud Engineer**
+- 🏦 Currently serving as a **Server Engineer**
 
 ## 🌱 Current Interests Tools
 
