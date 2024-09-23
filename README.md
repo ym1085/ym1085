@@ -4,10 +4,6 @@
 
 - 🔗 Dive into my [**resume**](https://ymkim-portfolio.oopy.io) and explore my thoughts on my [**blog**](https://sw-ym.tistory.com)
 
-## 🛠️ Current Role
-
-- 🏦 Currently serving as a **Server Engineer**
-
 ## 🌱 Current Interests Tools
 
 - ☁️ **Cloud/Infra**: AWS
