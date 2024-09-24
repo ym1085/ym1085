@@ -9,6 +9,7 @@
 - ☁️ **Cloud/Infra**: AWS
 - 🐳 **Container Service**: Docker, Kubernetes
 - 🔍 **Observability**: Grafana, Prometheus
+- 💡 **IaC**: Terrform
 - 🌿 **Backend**: Java, Spring Boot, JPA
 
 <br>
