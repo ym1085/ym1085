@@ -8,7 +8,6 @@
 
 - ☁️ **Cloud/Infra**: AWS
 - 🐳 **Container Service**: Docker, Kubernetes
-- 💡 **IaC**: Terrform
 - 🌿 **Backend**: Java, Spring Boot, JPA
 
 <br>
