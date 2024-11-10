@@ -1,6 +1,8 @@
 <div align="left">
 
-# Young Min Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# ✨ Young Min Kim
+
+> 📄 If you are interested in me, please take a look at my [resume](https://ymkim-portfolio.oopy.io)
 
 - I'm a software engineer interested in cloud technology.
 - I'm interested in new tech, especially AWS, Docker, K8s, IaC, and Spring F/W.
@@ -52,7 +54,7 @@
 
 </div>
 
-## 📬 Get in Touch
+## 📬 Contact
 
 [![Google Badge](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white&link=mailto:youngmin1085@gmail.com)](mailto:youngmin1085@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fym1085&count_bg=%2379C83D&title_bg=%23D5D337&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
