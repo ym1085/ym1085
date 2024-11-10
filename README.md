@@ -2,7 +2,7 @@
 
 # ✨ Young Min Kim
 
-> 📄 If you are interested in me, please take a look at my [resume](https://ymkim-portfolio.oopy.io)
+> 📄 If you're interested, please take a look at my [resume](https://ymkim-portfolio.oopy.io)
 
 - I'm a software engineer interested in cloud technology.
 - I'm interested in new tech, especially AWS, Docker, K8s, IaC, and Spring F/W.
