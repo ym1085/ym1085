@@ -1,6 +1,6 @@
 <div align="left">
 
-# YoungMin Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Young Min Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 - I'm a software engineer interested in cloud technology.
 - I'm interested in new tech, especially AWS, Docker, K8s, IaC, and Spring F/W.
