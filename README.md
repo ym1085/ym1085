@@ -1,16 +1,9 @@
 <div align="left">
 
-# Hi there, I'm YoungMin Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# YoungMin Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-- 🔗 Dive into my [**resume**](https://ymkim-portfolio.oopy.io) and explore my thoughts on my [**blog**](https://sw-ym.tistory.com)
-
-## 🌱 Current Interests Tools
-
-- ☁️ **Cloud/Infra**: AWS
-- 🐳 **Container Service**: Docker, Kubernetes
-- 🌿 **Backend**: Java, Spring Boot, JPA
-
-<br>
+- I'm a software engineer interested in cloud technology.
+- I'm interested in new tech, especially AWS, Docker, K8s, IaC, and Spring F/W.
 
 <!-- ## 👆 Once I've used -->
 
