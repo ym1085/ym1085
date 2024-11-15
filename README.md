@@ -50,7 +50,11 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=white&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## 📄 Certificate
 
+| AWS CLF-C02 |
+|-------------------------------------|
+| <img src="./aws-certified-cloud-practitioner.png" width="150px"> |
 
 </div>
 
