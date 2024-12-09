@@ -3,7 +3,7 @@
 # ✨ Young Min Kim
 
 - I'm a software engineer interested in cloud technology.
-- I'm interested in new tech, especially AWS, Docker, K8s and Spring F/W.
+- I'm interested in new tech, especially Spring framework, AWS, Docker, K8s.
 
 <!-- ## 👆 Once I've used -->
 
