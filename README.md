@@ -2,8 +2,10 @@
 
 # ✨ Young Min Kim
 
+> Blog : https://sw-ym.tistory.com
+
 - I'm a software engineer interested in cloud technology.
-- I'm interested in new tech, especially Spring framework, AWS, Docker, K8s.
+- I'm interested in new tech, especially AWS and Spring F/W.
 
 <!-- ## 👆 Once I've used -->
 
