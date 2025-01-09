@@ -4,8 +4,8 @@
 
 > Blog : https://sw-ym.tistory.com
 
-- I'm a software engineer interested in cloud technology.
-- I'm interested in new tech, especially AWS and Spring F/W.
+- I'm a software engineer interested in backend development and cloud technology.
+- I'm interested in new tech, especially Java & Spring and AWS.
 
 <!-- ## 👆 Once I've used -->
 
