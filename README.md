@@ -5,7 +5,7 @@
 > Blog : https://sw-ym.tistory.com
 
 - I'm a software engineer interested in backend development and cloud technology.
-- I'm interested in new tech, especially AWS, Docker, Java & Spring
+- I'm interested in new tech, especially AWS, Docker, Java, Spring Boot(JPA)
 
 <!-- ## 👆 Once I've used -->
 
