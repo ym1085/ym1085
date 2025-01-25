@@ -1,6 +1,6 @@
 <div align="left">
 
-# ✨ Young Min Kim
+# Young Min Kim
 
 > Blog : https://sw-ym.tistory.com
 
