@@ -2,7 +2,7 @@
 
 # Young Min Kim
 
-> Blog : https://sw-ym.tistory.com
+<!-- > Blog : https://sw-ym.tistory.com -->
 
 - I'm a software engineer interested in backend development and cloud technology.
 - I'm interested in new tech, especially AWS, Docker, Java, Spring Boot(JPA)
