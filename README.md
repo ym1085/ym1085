@@ -52,7 +52,7 @@
 
 </div>
 
-## 📬 Contact
+<!-- ## 📬 Contact -->
 
-[![Google Badge](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white&link=mailto:youngmin1085@gmail.com)](mailto:youngmin1085@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fym1085&count_bg=%2379C83D&title_bg=%23D5D337&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Google Badge](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white&link=mailto:youngmin1085@gmail.com)](mailto:youngmin1085@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fym1085&count_bg=%2379C83D&title_bg=%23D5D337&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
