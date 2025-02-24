@@ -4,8 +4,8 @@
 
 <!-- > Blog : https://sw-ym.tistory.com -->
 
-- I'm a software engineer interested in backend development and cloud technology.
-- I'm interested in new tech, especially AWS, Docker, Java, Spring Boot(JPA)
+- I'm a software engineer interested in Cloud technology.
+- I'm interested in new tech, especially AWS, Docker.
 
 <!-- ## 👆 Once I've used -->
 
@@ -41,8 +41,8 @@
 
 ![ym1085](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ym1085&theme=algolia)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ym1085&theme=algolia) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ym1085&theme=algolia) </a> |
-| ------------- | ------------- |
+<!--| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ym1085&theme=algolia) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ym1085&theme=algolia) </a> |
+| ------------- | ------------- | -->
 
 <!-- ![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=white)
 ![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
