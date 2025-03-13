@@ -4,7 +4,7 @@
 
 <!-- > Blog : https://sw-ym.tistory.com -->
 
-- I'm a software engineer interested in Cloud technology.
+- I'm a software engineer interested in cloud technology.
 - I'm currently interested in terraform, docker, and kubernetes.
 
 <!-- ## 👆 Once I've used -->
