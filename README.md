@@ -1,11 +1,11 @@
 <div align="left">
 
-# Young Min Kim
+# YoungMinKim
 
-<!-- > Blog : https://sw-ym.tistory.com -->
+> Resume : https://ymkim-portfolio.oopy.io
 
-- I'm a software engineer interested in cloud technology.
-- I'm currently interested in terraform, docker, and k8s.
+- Software engineer interested in cloud technology.
+- Currently interested in terraform, docker, k8s.
 
 <!-- ## 👆 Once I've used -->
 
@@ -35,7 +35,7 @@
 </div><br>
 </div> -->
 
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254)
 
 <div align=left>
 
@@ -45,7 +45,7 @@
 | ------------- | ------------- |
 
 <!-- ![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
