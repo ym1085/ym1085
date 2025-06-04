@@ -5,7 +5,6 @@
 > Resume : https://ymkim-portfolio.oopy.io
 
 - Software engineer interested in cloud technology.
-- Currently interested in terraform, docker, k8s.
 
 <!-- ## 👆 Once I've used -->
 
