@@ -4,7 +4,7 @@
 
 > Resume : https://ymkim-portfolio.oopy.io
 
-- Software engineer interested in cloud technology.
+- Software engineer interested in cloud technology
 
 <!-- ## 👆 Once I've used -->
 
