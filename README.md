@@ -2,7 +2,7 @@
 
 # YoungMinKim
 
-> Resume : https://ymkim-portfolio.oopy.io
+<!-- > Resume : https://ymkim-portfolio.oopy.io -->
 
 - Software engineer interested in cloud technology
 
