@@ -5,6 +5,7 @@
 > Resume : https://ymkim-portfolio.oopy.io
 
 1. Software engineer interested in cloud technology
+2. Currently interested in AWS, Terraform, EKS
 
 <!-- ## 👆 Once I've used -->
 
