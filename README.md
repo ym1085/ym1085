@@ -2,10 +2,10 @@
 
 # YoungMinKim
 
-> Resume : [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
+<!-- > Resume : [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io) -->
 
 1. Software engineer interested in cloud technology
-2. Currently interested in AWS, Terraform
+2. Currently interested in AWS
 
 <!-- ## 👆 Once I've used -->
 
