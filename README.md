@@ -1,6 +1,6 @@
 <div align="left">
 
-# YoungMinKim
+# Kim Young Min
 
 > [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
 
