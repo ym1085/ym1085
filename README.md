@@ -2,10 +2,10 @@
 
 # YoungMinKim
 
-> Resume : [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
+> [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
 
-1. Software engineer interested in cloud technology
-2. Currently interested in are Terraform and AWS
+1. Cloud-focused Software Engineer
+2. Specializing in AWS infrastructure and Terraform-based automation
 
 <!-- ## 👆 Once I've used -->
 
