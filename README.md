@@ -1,6 +1,6 @@
 <div align="left">
 
-# Kim Young Min
+# Youngmin Kim (김영민)
 
 > [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
 
