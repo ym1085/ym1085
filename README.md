@@ -2,7 +2,7 @@
 
 # Youngmin Kim
 
-> [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
+> Resume : [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
 
 1. Cloud focused Software Engineer
 2. Specializing in AWS infrastructure
