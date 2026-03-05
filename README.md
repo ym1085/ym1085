@@ -2,9 +2,10 @@
 
 # Youngmin Kim
 
-> Resume : [https://ymkim-portfolio](https://ymkim-portfolio.oopy.io)
+> [Resume_Notion.pdf](https://ymkim-portfolio.oopy.io)<br>
+> [Resume_LaTex.pdf](https://drive.google.com/file/d/1UIghP1mD6G8fKMlaNeUMkAORfkmMsowq/view?usp=sharing)
 
-1. Cloud focused Software Engineer
+1. Cloud focused software engineer
 2. Specializing in AWS infrastructure
 
 <!-- ## 👆 Once I've used -->
@@ -35,16 +36,16 @@
 </div><br>
 </div> -->
 
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254)
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
 
-<div align=left>
+<!-- <div align=left>
 
 ![ym1085](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ym1085&theme=algolia)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ym1085&theme=algolia) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ym1085&theme=algolia) </a> |
 | ------------- | ------------- |
 
-<!-- ![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
+![ym1085](https://github-readme-stats.vercel.app/api?username=ym1085&show_icons=true&layout=compact&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ym1085&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
