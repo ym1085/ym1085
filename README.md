@@ -2,8 +2,8 @@
 
 # Youngmin Kim
 
-> [Resume_Notion.pdf](https://ymkim-portfolio.oopy.io)<br>
-> [Resume_LaTex.pdf](https://drive.google.com/file/d/1UIghP1mD6G8fKMlaNeUMkAORfkmMsowq/view?usp=sharing)
+> [Resume_Notion](https://ymkim-portfolio.oopy.io)<br>
+> [Resume_LaTex](https://drive.google.com/file/d/1UIghP1mD6G8fKMlaNeUMkAORfkmMsowq/view?usp=sharing)
 
 1. Cloud focused software engineer
 2. Specializing in AWS infrastructure
