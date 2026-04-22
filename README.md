@@ -4,8 +4,9 @@
 
 > resume : [ymkim-portfolio](https://ymkim-portfolio.oopy.io/)
 
-1. Cloud focused software engineer
-2. Specializing in AWS infrastructure
+1. DevOps & Backend Engineer focused on AWS infrastructure
+2. Operating large-scale systems in production
+3. Interested in reliability and cost efficiency
 
 <!-- ## 👆 Once I've used -->
 
