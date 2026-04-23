@@ -2,7 +2,7 @@
 
 # Youngmin Kim
 
-> resume : [ymkim-portfolio](https://ymkim-portfolio.oopy.io/)
+> [resume](https://ymkim-portfolio.oopy.io)
 
 1. DevOps & Backend Engineer focused on AWS infrastructure
 2. Operating large-scale systems in production
