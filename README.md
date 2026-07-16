@@ -4,7 +4,7 @@
 
 <!-- > [Resume](https://ymkim-portfolio.oopy.io) -->
 
-1. DevOps & Backend Engineer focused on AWS infrastructure
+1. Backend Engineer focused on AWS infrastructure
 2. Operating large-scale systems in production
 3. Interested in reliability and cost efficiency
 
